@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "챗 "
+title:  "챗 봇"
 date:   2018-12-27 16:26:57 +0900
 categories: jekyll update
 ---
